@@ -19,7 +19,7 @@ The Student Monitoring App is designed to relieve parents' anxieties when their 
 ## Installation
 To set up the project locally, run the following commands:
 ```bash
-git clone https://github.com/yourusername/StudentMonitoringApp.git
+git clone https://github.com/Hassanmoin3/StudentMonitoringApp-using-React-Native.git
 cd StudentMonitoringApp
 npm install
 npm run android
